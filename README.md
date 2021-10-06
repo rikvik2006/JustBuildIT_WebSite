@@ -2,3 +2,5 @@
 Sito web del server minecraft JustBuildIT
 
 ## IP server minecraft
+
+```justbuildit.ddns.net```
