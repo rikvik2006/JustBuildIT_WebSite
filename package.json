@@ -1,0 +1,23 @@
+{
+  "name": "justbuildit_website",
+  "version": "1.0.0",
+  "description": "Sito web del server minecraft JustBuildIT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rikvik2006/JustBuildIT_WebSite.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rikvik2006/JustBuildIT_WebSite/issues"
+  },
+  "homepage": "https://github.com/rikvik2006/JustBuildIT_WebSite#readme",
+  "dependencies": {
+    "http": "^0.0.1-security"
+  }
+}
